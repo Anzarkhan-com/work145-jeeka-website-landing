@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>About || RinBuild || Responsive HTML 5 Template</title>
+    <title>Jeeka</title>
 
     <!-- responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,33 +58,66 @@
         <section class="about-style1-area bg-white">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-5">
-                        <div class="about-style1-image-box clearfix">
-                            <img src="../project/assets/img/images.png" width="100%"  alt="">
-
+                    <div class="col-md-6">
+                        <!-- Contact Information Box Start -->
+                        <div class="contact-information-box">
+                            <div class="title">
+                                <h3>Contact Info</h3>
+                                <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.</p> -->
+                            </div>
+                            <ul class="contact-us">
+                                <li>
+                                    <div class="icon">
+                                        <span class="flaticon-pin-1"></span>
+                                    </div>
+                                    <div class="text">
+                                        <p>380 Applewoods Villas | SP Ring Road | Ahmedabad -380 058. INDIA</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="flaticon-open-envelope-with-letter"></span>
+                                    </div>
+                                    <div class="text">
+                                        <a href="mailto:jeeken@jeeka.com">jeeken@jeeka.com</a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="flaticon-smartphone"></span>
+                                    </div>
+                                    <div class="text">
+                                        <a href="tel:T:+91 9879619739">+91 9879619739</a>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
                     </div>
-                    <div class="col-xl-7 col-lg-12">
+                    <!-- Contact Information Box End -->
+                    <div class="col-md-6">
                         <div class="about-style1-text-box">
                             <div class="title">
-                                <p>WELCOME</p>
+                                <!-- <p>WELCOME</p> -->
                                 <h1>Manufacturer and Supplier For <b>Pigment Blue 15.6</b></h1>
                             </div>
                             <div class="inner-contant">
-                                <p>JEEKA is a recognized leader in manufacturing of Phthalocyanine Pigments for Coatings, Inks, Plastics/Fibres & Colour Filters.</p>
-                                <p>Our success is driven by our long-term strategy of continuous operational improvements. The Quality of JEEKABLUE is the result of exceptional diligence in the production process.</p>
-                                
+                                <p>JEEKA is a recognized leader in manufacturing of Phthalocyanine Pigments for
+                                    Coatings, Inks, Plastics/Fibres & Colour Filters.</p>
+                                <p>Our success is driven by our long-term strategy of continuous operational
+                                    improvements. The Quality of JEEKABLUE is the result of exceptional diligence in the
+                                    production process.</p>
+
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
+
         </section>
         <!--End About Style1 Area-->
         <!--Start Service Style2 Area-->
         <section class="service-style2-area service-style5-area">
-            <div class="layer-outer" style="background-color:#46266e;"></div>
+            <div class="layer-outer"></div>
             <div class="container service-box">
 
                 <div class="row">
@@ -92,10 +125,9 @@
                     <!--Start Single Service Style5-->
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-service-style5 text-center">
-                            <div class="icon"><i class="fa-solid fa-industry" style="color: #b63240;"></i></span></div>
                             <div class="text-holder">
                                 <h3><a href="#">Manufactured Pigments</a></h3>
-                                <p>
+                                <p style="font-size: 20px; font-weight: 700;">
                                     Pigment Blue 15:6 | ε Epsilon <br>
                                     Pigment Blue 15:3 | β Beta <br>
                                     Pigment Blue 15:4 | β Beta <br>
@@ -108,10 +140,9 @@
                     <!--Start Single Service Style5-->
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-service-style5 text-center">
-                            <div class="icon"><i class="fa-solid fa-business-time" style="color: #b63240;"></i></span></div>
                             <div class="text-holder">
                                 <h3><a href="#">Traded Pigments</a></h3>
-                                <p>
+                                <p style="font-size: 20px; font-weight: 700;">
                                     Pigment Blue 15:0 | α Alpha <br>
                                     Pigment Blue 15:1 | α Alpha <br>
                                     Pigment Blue 15:2 | α Alpha <br>
@@ -130,9 +161,9 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 mb-4">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">GERMANY</h2> <br>
+                            <h5 class="dist-style">GERMANY</h5> <br>
                             <div class="title">
-                                <h3>PENPET PETROCHEMICAL TRADING GmbH</h3>
+                                <h6>PENPET PETROCHEMICAL TRADING GmbH</h6>
                                 <ul>
                                     <li>Merkurring 105
                                         D-22143 Hamburg.
@@ -145,9 +176,9 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">ITALY</h2> <br>
+                            <h5 class="dist-style">ITALY</h5> <br>
                             <div class="title">
-                                <h3>AZELIS Italia S.r.l.</h3>
+                                <h6>AZELIS Italia S.r.l.</h6>
                                 <ul>
                                     <li>Via Tommaso Gulli, 39
                                         20147 Milano.
@@ -161,9 +192,9 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">ISRAEL</h2> <br>
+                            <h5 class="dist-style">ISRAEL</h5> <br>
                             <div class="title">
-                                <h3>M.I.Chemicals Ltd.</h3>
+                                <h6>M.I.Chemicals Ltd.</h6>
                                 <ul>
                                     <li>Meiron Str.96 Kvar Vradim 25147
                                     </li>
@@ -175,9 +206,9 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">THAILAND</h2> <br>
+                            <h5 class="dist-style">THAILAND</h5> <br>
                             <div class="title">
-                                <h3>YAMAMOTO TRADING[Thailand] Co.Ltd</h3>
+                                <h6>YAMAMOTO TRADING[Thailand] Co.Ltd</h6>
                                 <ul>
                                     <li>99/6 Moo13, Krisdanakorn 21 Km. 7,
                                         Bangna-Trad Road, Bangkaew, Bangplee
@@ -185,16 +216,17 @@
 
                                     </li>
                                     <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
+                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E:
+                                            wiboondej@ytc.thailand.co.th</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">KOREA</h2> <br>
+                            <h5 class="dist-style">KOREA</h5> <br>
                             <div class="title">
-                                <h3>Penpet Korea Co.Ltd</h3>
+                                <h6>Penpet Korea Co.Ltd</h6>
                                 <ul>
                                     <li>D-701 26, Beobwon-ro 9-gil,
                                         Songpa-gu
@@ -210,9 +242,9 @@
 
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">USA</h2> <br>
+                            <h5 class="dist-style">USA</h5> <br>
                             <div class="title">
-                                <h3>GR Pigment</h3>
+                                <h6>GR Pigment</h6>
                                 <ul>
                                     <li>2711 Cedarglade Dr.
                                         Naperville IL 60564
@@ -240,15 +272,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4">
                         <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">VIETNAM</h2> <br>
+                            <h5 class="dist-style">VIETNAM</h5> <br>
                             <div class="title">
-                                <h3>YAMAMOTO TRADING [Thailand] Co.Ltd.</h3>
+                                <h6>YAMAMOTO TRADING [Thailand] Co.Ltd.</h6>
                                 <ul>
                                     <li>Ground Floor, 70 Pham Ngoc Thach Street
                                         District 3, Ho Chi Minh City
                                     </li>
                                     <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
+                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E:
+                                            wiboondej@ytc.thailand.co.th</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -268,14 +301,12 @@
                             </div> -->
                     </div>
                 </div>
-
-
             </div>
+        </section>
     </div>
-    </section>
 
     <!--Start Slogan Area-->
-    <section class="slogan-area">
+    <!-- <section class="slogan-area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -290,7 +321,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--End Slogan Area-->
 
     <!--Start Contact Form Section-->
@@ -354,40 +385,6 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-5 col-md-12">
-                    <div class="contact-information-box">
-                        <div class="title">
-                            <h3>Contact Info</h3>
-                            <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.</p> -->
-                        </div>
-                        <ul class="contact-us">
-                            <li>
-                                <div class="icon">
-                                    <span class="flaticon-pin-1"></span>
-                                </div>
-                                <div class="text">
-                                    <p>380 Applewoods Villas | SP Ring Road | Ahmedabad -380 058. INDIA</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="flaticon-open-envelope-with-letter"></span>
-                                </div>
-                                <div class="text">
-                                    <a href="mailto:jeeken@jeeka.com">jeeken@jeeka.com</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="flaticon-smartphone"></span>
-                                </div>
-                                <div class="text">
-                                    <a href="tel:T:+91 9879619739">+91 9879619739</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
 
             </div>
         </div>
@@ -402,61 +399,10 @@
             </div>
             <div class="row">
                 <!--Start Single Team Member-->
-                <div class="col-xl-3 col-lg-3 wow fadeInUp animated" data-wow-delay="0.3s" data-wow-duration="1300ms">
-                    <div class="single-team-member wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                        <div class="img-holder">
-                            <!-- <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image"> -->
-                        </div>
-                        <div class="title-holder">
-                            <div class="inner">
-                                <div class="left">
-                                    <h3>Pigments for Colour Filters</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 wow fadeInUp animated" data-wow-delay="0.3s" data-wow-duration="1300ms">
-                    <div class="single-team-member wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                        <div class="img-holder">
-                            <!-- <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image"> -->
-                        </div>
-                        <div class="title-holder">
-                            <div class="inner">
-                                <div class="left">
-                                    <h3>LCD Dispersion</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 wow fadeInUp animated" data-wow-delay="0.3s" data-wow-duration="1300ms">
-                    <div class="single-team-member wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                        <div class="img-holder">
-                            <!-- <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image"> -->
-                        </div>
-                        <div class="title-holder">
-                            <div class="inner">
-                                <div class="left">
-                                    <h3>Pigments for Digital Inks</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 wow fadeInUp animated" data-wow-delay="0.3s" data-wow-duration="1300ms">
-                    <div class="single-team-member wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                        <div class="img-holder">
-                            <!-- <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image"> -->
-                        </div>
-                        <div class="title-holder">
-                            <div class="inner">
-                                <div class="left">
-                                    <h3>Pigments for Inkjet Inks</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-md-12">
+                    <p class="text-center">Jeeka industries are known for manufacturing & supplying of Pigment Blue
+                        15.6/PB 15:6 also known as Epsilon Blue. This pigment is widely known for it's use for Colour
+                        filters, Digital Inks, Inject Inks & LCD dispersion. </p>
                 </div>
             </div>
         </div>
@@ -465,18 +411,11 @@
 
     <!--Start footer area-->
     <?php
-    require_once "elements/footer.php";
+    // require_once "elements/footer.php";
     ?>
     <!--End footer area-->
 
     </div>
-
-
-    <button class="scroll-top scroll-to-target" data-target="html">
-        <span class="icon-angle"></span>
-    </button>
-
-
 
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/aos.js"></script>
@@ -510,7 +449,5 @@
 
 
 </body>
-
-<!-- Mirrored from mehedi.asiandevelopers.com/rinbuild/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 May 2023 06:48:43 GMT -->
 
 </html>

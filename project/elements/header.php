@@ -1,5 +1,5 @@
 <header class="main-header">
-    <div class="header-top">
+    <!-- <div class="header-top">
         <div class="container">
             <div class="outer-box">
                 <div class="header-top-left">
@@ -36,7 +36,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--Start Header upper -->
     <div class="header-upper">
@@ -44,7 +44,7 @@
             <div class="outer-box clearfix">
                 <div class="header-upper-left float-left clearfix">
                     <div class="logo">
-                        <a href="index.php"><img src="assets/img/picture1.png" width="100%" alt="Awesome Logo" title=""></a>
+                        <a href="index.php"><img src="assets/img/picture1.png" style="width: 100%; height: 120px" alt="Awesome Logo"></a>
                     </div>
                 </div>
                 <div class="header-upper-right float-right clearfix">
@@ -61,7 +61,7 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                <span class="flaticon-pin-1"></span></span>
+                                    <span class="flaticon-pin-1"></span></span>
                                 </div>
                                 <div class="title">
                                     <span class="thm_clr1">Address</span>
@@ -87,11 +87,11 @@
     <!--End Header Upper-->
 
     <!--Start header lawer -->
-    
+
     <!--End header lawer -->
 
     <!--Sticky Header-->
-     
+
     <!--End Sticky Header-->
     <!-- Mobile Menu  -->
     <div class="mobile-menu">
