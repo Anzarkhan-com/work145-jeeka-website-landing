@@ -38,21 +38,13 @@
 
 <body>
     <div class="boxed_wrapper">
-
         <div class="preloader"></div>
 
-        <!-- switcher menu -->
-
-        <!-- end switcher menu -->
-
-        <!-- main header -->
+        <!-- Start Main Header -->
         <?php
         require_once "elements/header.php";
         ?>
-
-        <!--Start breadcrumb area-->
-
-        <!--End breadcrumb area-->
+        <!-- End Main Header -->
 
         <!--Start About Style1 Area-->
         <section class="about-style1-area bg-white">
@@ -102,26 +94,47 @@
                             </div>
                             <div class="inner-contant">
                                 <p>JEEKA is a recognized leader in manufacturing of Phthalocyanine Pigments for
-                                    Coatings, Inks, Plastics/Fibres & Colour Filters.</p>
+                                    Coatings, Inks, Plastics/Fibres & Colour Filters.
+                                </p>
                                 <p>Our success is driven by our long-term strategy of continuous operational
                                     improvements. The Quality of JEEKABLUE is the result of exceptional diligence in the
-                                    production process.</p>
-
+                                    production process.
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </section>
         <!--End About Style1 Area-->
+
+        <!--Start Keywords Section-->
+        <section class="team-area">
+            <div class="container">
+                <div class="sec-title text-center">
+                    <!-- <p>Meet Our Team</p> -->
+                    <div class="big-title black-clr">
+                        <!-- <h1>Keywords</h1> -->
+                    </div>
+                </div>
+                <div class="row">
+                    <!--Start Single Team Member-->
+                    <div class="col-md-12">
+                        <p class="text-center">Jeeka industries are known for manufacturing & supplying of Pigment Blue
+                            15.6/PB 15:6 also known as Epsilon Blue. This pigment is widely known for it's use for Color
+                            filters, Digital Inks, Inject Inks & LCD dispersion.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End Keywords Section-->
+
         <!--Start Service Style2 Area-->
         <section class="service-style2-area service-style5-area">
             <div class="layer-outer"></div>
             <div class="container service-box">
-
                 <div class="row">
-
                     <!--Start Single Service Style5-->
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-service-style5 text-center">
@@ -133,10 +146,10 @@
                                     Pigment Blue 15:4 | β Beta <br>
                                 </p>
                             </div>
-
                         </div>
                     </div>
                     <!--End Single Service Style5-->
+
                     <!--Start Single Service Style5-->
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-service-style5 text-center">
@@ -146,276 +159,193 @@
                                     Pigment Blue 15:0 | α Alpha <br>
                                     Pigment Blue 15:1 | α Alpha <br>
                                     Pigment Blue 15:2 | α Alpha <br>
-
                                 </p>
                             </div>
-
                         </div>
                     </div>
                     <!--End Single Service Style5-->
                 </div>
             </div>
         </section>
+        <!--End Service Style2 Area-->
+
+        <div>
+            <!--Start Contact Form Section-->
+            <section class="contact-form-area py-3" id="contact-section">
+                <div class="auto-container">
+                    <div class="row clearfix">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-12">
+                            <div class="contact-form">
+                                <div class="title justify-content-center">
+                                    <h3>Leave Reply</h3>
+                                </div>
+                                <div class="inner-box">
+                                    <form id="contact-form" name="contact_form" class="default-form2" action="http://mehedi.asiandevelopers.com/rinbuild/assets/inc/sendmail.php" method="post">
+                                        <div class="row">
+                                            <div class="col-xl-6">
+                                                <div class="input-box">
+                                                    <p>Name:</p>
+                                                    <input type="text" name="form_name" value="" placeholder="" required="">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6">
+                                                <div class="input-box">
+                                                    <p>Email Address:</p>
+                                                    <input type="email" name="form_email" value="" placeholder="" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xl-6">
+                                                <div class="input-box">
+                                                    <p>Subject:</p>
+                                                    <input type="text" name="form_subject" value="" placeholder="">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6">
+                                                <div class="input-box">
+                                                    <p>Phone:</p>
+                                                    <input type="text" name="form_phone" value="" placeholder="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xl-12">
+                                                <div class="input-box">
+                                                    <p>Message:</p>
+                                                    <textarea name="form_message" placeholder="" required=""></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xl-12">
+                                                <div class="button-box">
+                                                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
+                                                    <button class="btn-one" type="submit" data-loading-text="Please wait...">Submit</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                </div>
+            </section>
+            <!--End Contact Form Section-->
+        </div>
+
+        <!-- Start Contact Information Area -->
         <section class="contact-info-area py-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 mb-4">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">GERMANY</h5> <br>
+                            <h6 class="dist-style">GERMANY</h6><br>
                             <div class="title">
                                 <h6>PENPET PETROCHEMICAL TRADING GmbH</h6>
                                 <ul>
-                                    <li>Merkurring 105
-                                        D-22143 Hamburg.
-                                    </li>
-                                    <li><a href="tel:494067579930">T: +49 40 67579930</a></li>
-                                    <li><a href="mail-to:cm@penpet.de">E: cm@penpet.de</a></li>
+                                    <li style="font-size: 12px !important;">Merkurring 105 D-22143 Hamburg.</li>
+                                    <li style="font-size: 12px !important;"><a href="tel:494067579930">T: +49 40 67579930</a></li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:cm@penpet.de">E: cm@penpet.de</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">ITALY</h5> <br>
+                            <h6 class="dist-style">ITALY</h6><br>
                             <div class="title">
                                 <h6>AZELIS Italia S.r.l.</h6>
                                 <ul>
-                                    <li>Via Tommaso Gulli, 39
-                                        20147 Milano.
-
-                                    </li>
-                                    <li><a href="tel:+393482720722">T: +39 348 2720722</a></li>
-                                    <li><a href="mail-to:marco.gerosa@azelis.it">E: marco.gerosa@azelis.it</a></li>
+                                    <li style="font-size: 12px !important;">Via Tommaso Gulli, 3920147 Milano.</li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:marco.gerosa@azelis.it">E: marco.gerosa@azelis.it</a></li>
+                                    <li style="font-size: 12px !important;"><a href="tel:+393482720722">T: +39 348 2720722</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">ISRAEL</h5> <br>
+                            <h6 class="dist-style">ISRAEL</h6><br>
                             <div class="title">
                                 <h6>M.I.Chemicals Ltd.</h6>
                                 <ul>
-                                    <li>Meiron Str.96 Kvar Vradim 25147
-                                    </li>
-                                    <li><a href="tel:+972525208887">T: +972 525208887</a></li>
-                                    <li><a href="mail-to:ts@mi-chemicals.com">E: ts@mi-chemicals.com</a></li>
+                                    <li style="font-size: 12px !important;">Meiron Str.96 Kvar Vradim 25147</li>
+                                    <li style="font-size: 12px !important;"><a href="tel:+972525208887">T: +972 525208887</a></li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:ts@mi-chemicals.com">E: ts@mi-chemicals.com</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">THAILAND</h5> <br>
+                            <h6 class="dist-style">THAILAND</h6><br>
                             <div class="title">
                                 <h6>YAMAMOTO TRADING[Thailand] Co.Ltd</h6>
                                 <ul>
-                                    <li>99/6 Moo13, Krisdanakorn 21 Km. 7,
-                                        Bangna-Trad Road, Bangkaew, Bangplee
-                                        Samutprakarn 10540.
-
-                                    </li>
-                                    <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E:
-                                            wiboondej@ytc.thailand.co.th</a></li>
+                                    <li style="font-size: 12px !important;">99/6 Moo13, Krisdanakorn 21 Km. 7, Bangna-Trad Road, Bangkaew, Bangplee Samutprakarn 10540.</li>
+                                    <li style="font-size: 12px !important;"><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6">
+                </div>
+
+                <div class="row justify-content-center">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">KOREA</h5> <br>
+                            <h6 class="dist-style">KOREA</h6><br>
                             <div class="title">
                                 <h6>Penpet Korea Co.Ltd</h6>
                                 <ul>
-                                    <li>D-701 26, Beobwon-ro 9-gil,
-                                        Songpa-gu
-                                        Seoul 05836.
-
-                                    </li>
-                                    <li><a href="tel:T: +82 02.6425.0510">T: +82 02.6425.0510</a></li>
-                                    <li><a href="mail-to:harry@penpet.co.kr">E: harry@penpet.co.kr</a></li>
+                                    <li style="font-size: 12px !important;">D-701 26, Beobwon-ro 9-gil, Songpa-gu Seoul 05836.</li>
+                                    <li style="font-size: 12px !important;"><a href="tel:T: +82 02.6425.0510">T: +82 02.6425.0510</a></li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:harry@penpet.co.kr">E: harry@penpet.co.kr</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-xl-6 col-lg-6">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">USA</h5> <br>
+                            <h6 class="dist-style">USA</h6><br>
                             <div class="title">
                                 <h6>GR Pigment</h6>
                                 <ul>
-                                    <li>2711 Cedarglade Dr.
-                                        Naperville IL 60564
-                                    </li>
-                                    <li><a href="tel:+1 630 303 0067">T: +1 630 303 0067</a></li>
-                                    <li><a href="mail-to:grpigment@gmail.com">E: grpigment@gmail.com</a></li>
+                                    <li style="font-size: 12px !important;">2711 Cedarglade Dr.Naperville IL 60564</li>
+                                    <li style="font-size: 12px !important;"><a href="tel:+1 630 303 0067">T: +1 630 303 0067</a></li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:grpigment@gmail.com">E: grpigment@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4">
-                        <!-- <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">VIETNAM</h2> <br>
-                            <div class="title">
-                                <h3>YAMAMOTO TRADING [Thailand] Co.Ltd.</h3>
-                                <ul>
-                                    <li>Ground Floor, 70 Pham Ngoc Thach Street
-                                        District 3, Ho Chi Minh City
-                                    </li>
-                                    <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
-                                </ul>
-                            </div>
-                        </div> -->
-                    </div>
-                    <div class="col-xl-4 col-lg-4">
+                    <div class="col-xl-3 col-lg-3 col-md-3">
                         <div class="single-contact-info-box text-center">
-                            <h5 class="dist-style">VIETNAM</h5> <br>
+                            <h6 class="dist-style">VIETNAM</h6><br>
                             <div class="title">
                                 <h6>YAMAMOTO TRADING [Thailand] Co.Ltd.</h6>
                                 <ul>
-                                    <li>Ground Floor, 70 Pham Ngoc Thach Street
-                                        District 3, Ho Chi Minh City
-                                    </li>
-                                    <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E:
-                                            wiboondej@ytc.thailand.co.th</a></li>
+                                    <li style="font-size: 12px !important;">Ground Floor, 70 Pham Ngoc Thach Street District 3, Ho Chi Minh City</li>
+                                    <li style="font-size: 12px !important;"><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
+                                    <li style="font-size: 12px !important;"><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4">
-                        <!-- <div class="single-contact-info-box text-center">
-                            <h2 class="dist-style">VIETNAM</h2> <br>
-                            <div class="title">
-                                <h3>YAMAMOTO TRADING [Thailand] Co.Ltd.</h3>
-                                <ul>
-                                    <li>Ground Floor, 70 Pham Ngoc Thach Street
-                                        District 3, Ho Chi Minh City
-                                    </li>
-                                    <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
-                                </ul>
-                            </div> -->
                     </div>
                 </div>
             </div>
         </section>
+        <!-- End Contact Information Area -->
     </div>
-
-    <!--Start Slogan Area-->
-    <!-- <section class="slogan-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="slogan-content wow slideInUp" data-wow-delay="100ms">
-                        <div class="title">
-                            <h1>Contact Us Now in Our Rinbuild</h1>
-                        </div>
-                        <div class="quote-button">
-                            <a href="#contact-section">Get a Quote<span class="flaticon-next"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--End Slogan Area-->
-
-    <!--Start Contact Form Section-->
-    <section class="contact-form-area py-3" id="contact-section">
-        <div class="auto-container">
-            <div class="row clearfix">
-
-                <div class="col-xl-8 col-lg-7 col-md-12">
-                    <div class="contact-form">
-                        <div class="title">
-                            <h3>Leave Reply</h3>
-                        </div>
-                        <div class="inner-box">
-                            <form id="contact-form" name="contact_form" class="default-form2" action="http://mehedi.asiandevelopers.com/rinbuild/assets/inc/sendmail.php" method="post">
-                                <div class="row">
-                                    <div class="col-xl-6">
-                                        <div class="input-box">
-                                            <p>Name:</p>
-                                            <input type="text" name="form_name" value="" placeholder="" required="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6">
-                                        <div class="input-box">
-                                            <p>Email Address:</p>
-                                            <input type="email" name="form_email" value="" placeholder="" required="">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xl-6">
-                                        <div class="input-box">
-                                            <p>Subject:</p>
-                                            <input type="text" name="form_subject" value="" placeholder="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6">
-                                        <div class="input-box">
-                                            <p>Phone:</p>
-                                            <input type="text" name="form_phone" value="" placeholder="">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xl-12">
-                                        <div class="input-box">
-                                            <p>Message:</p>
-                                            <textarea name="form_message" placeholder="" required=""></textarea>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xl-12">
-                                        <div class="button-box">
-                                            <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                            <button class="btn-one" type="submit" data-loading-text="Please wait...">Submit</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div>
-        </div>
-    </section>
-    <section class="team-area">
-        <div class="container">
-            <div class="sec-title text-center">
-                <!-- <p>Meet Our Team</p> -->
-                <div class="big-title black-clr">
-                    <h1>Keywords</h1>
-                </div>
-            </div>
-            <div class="row">
-                <!--Start Single Team Member-->
-                <div class="col-md-12">
-                    <p class="text-center">Jeeka industries are known for manufacturing & supplying of Pigment Blue
-                        15.6/PB 15:6 also known as Epsilon Blue. This pigment is widely known for it's use for Colour
-                        filters, Digital Inks, Inject Inks & LCD dispersion. </p>
-                </div>
-            </div>
-        </div>
-    </section>
-
 
     <!--Start footer area-->
     <?php
     // require_once "elements/footer.php";
     ?>
     <!--End footer area-->
-
-    </div>
 
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/aos.js"></script>
@@ -445,8 +375,6 @@
     <script src="assets/js/jQuery.style.switcher.min.js"></script>
     <!-- thm custom script -->
     <script src="assets/js/custom.js"></script>
-
-
 
 </body>
 

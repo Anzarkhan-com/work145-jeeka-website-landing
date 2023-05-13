@@ -2489,7 +2489,7 @@ select:focus {
     position: relative;
     display: block;
     background: #f2f3f4;
-    padding: 120px 0 120px;
+    padding: 120px 0 50px;
 }
 .about-style1-area.bg-white{
     background: #ffffff;
@@ -2504,12 +2504,14 @@ select:focus {
     height: 439px;
     content: "";
 }
+
 .about-style1-image-box {
     position: relative;
     display: block;
     max-width: 470px;
     width: 100%;
 }
+
 .about-style1-image-box .image-box1 {
     position: relative;
     display: block;
@@ -2517,6 +2519,7 @@ select:focus {
     overflow: hidden;
     z-index: 5;
 }
+
 .about-style1-image-box .image-box1:before{
     position: absolute;
     bottom: 0;
@@ -2527,14 +2530,17 @@ select:focus {
     content: "";
     z-index: 1;
 }
+
 .about-style1-image-box .image-box1 img{
     width: 100%;
     transform: scale(1.01);
     transition: all 700ms ease;    
 }
+
 .about-style1-image-box .image-box1:hover img{
     transform: scale(1.2);    
 }
+
 .about-style1-image-box .image-box2 {
     position: relative;
     display: block;
@@ -2543,11 +2549,13 @@ select:focus {
     overflow: hidden;
     z-index: 5;
 }
+
 .about-style1-image-box .image-box2 img{
     width: 100%;
     transform: scale(1.2);
     transition: all 700ms ease;    
 }
+
 .about-style1-image-box .image-box2:hover img{
     transform: scale(1.0);    
 }
@@ -2563,6 +2571,7 @@ select:focus {
     background-attachment: inherit;
     background-size: cover;
 }
+
 .video-holder-box .icon {
     position: relative;
     display: block;
@@ -2570,6 +2579,7 @@ select:focus {
     height: 100%;
     z-index: 1;
 }
+
 .video-holder-box .icon:before{
     position: absolute;
     top: 0;
@@ -2585,15 +2595,18 @@ select:focus {
     opacity: 0;
     z-index: 1;    
 }
+
 .video-holder-box:hover .icon:before{
     opacity: 1;    
 }
+
 .video-holder-box .icon .inner {
     position: absolute;
     bottom: 0;
     right: 0;
     z-index: 5;
 }
+
 .video-holder-box .icon .inner a {
     position: relative;
     display: inline-block;
@@ -2606,6 +2619,7 @@ select:focus {
     animation: pulse 2s infinite;
     transition: all 1s ease;
 }
+
 .video-holder-box .icon .inner a span:before {
     position: relative;
     display: block;
@@ -2619,13 +2633,14 @@ select:focus {
 .about-style1-text-box {
     position: relative;
     display: block;
-    padding-left: 100px;
-    padding-top: 30px;
+    padding: 30px 0px 0px 100px;
 }
+
 .about-style1-text-box .title{
     position: relative;
     display: block;    
 }
+
 /* .about-style1-text-box .title:before {
     position: absolute;
     top: 6px;
@@ -3415,7 +3430,7 @@ select:focus {
     position: relative;
     display: block;
     background: #ffffff;
-    padding: 80px 0 80px;
+    padding: 30px 0 30px;
 }
 .team-area.pdtop0{
     padding-top: 0;
@@ -7081,15 +7096,18 @@ select:focus {
     padding: 0px 0px 120px;
     background-color: #ffffff;
 }
+
 .contact-form{
     position: relative;
     display: block;
 }
+
 .contact-form .title{
     position: relative;
     display: block; 
     padding-bottom: 31px;
 }
+
 .contact-form .title h3 {
     color: #46266e;
     font-size: 30px;
@@ -7097,10 +7115,8 @@ select:focus {
     font-weight: 600;
     text-transform: uppercase;
     margin-top: 6px;
+    text-align: center;
 }
-
-
-
 
 .contact-form form{
     position: relative;
@@ -7202,7 +7218,7 @@ select:focus {
 .contact-information-box {
     position: relative;
     display: block;
-    padding-left: 100px;
+    padding: 30px 0px 0px 100px;
 }
 .contact-information-box .title {
     position: relative;
