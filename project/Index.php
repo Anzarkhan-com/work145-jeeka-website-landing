@@ -220,7 +220,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-xl-12">
-                                                <div class="button-box">
+                                                <div class="button-box" style="text-align: center;">
                                                     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
                                                     <button class="btn-one" type="submit" data-loading-text="Please wait...">Submit</button>
                                                 </div>
@@ -247,9 +247,9 @@
                             <div class="title">
                                 <h6>PENPET PETROCHEMICAL TRADING GmbH</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">Merkurring 105 D-22143 Hamburg.</li>
-                                    <li style="font-size: 12px !important;"><a href="tel:494067579930">T: +49 40 67579930</a></li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:cm@penpet.de">E: cm@penpet.de</a></li>
+                                    <li>Merkurring 105 D-22143 Hamburg.</li>
+                                    <li><a href="tel:494067579930">T: +49 40 67579930</a></li>
+                                    <li><a href="mail-to:cm@penpet.de">E: cm@penpet.de</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -260,9 +260,9 @@
                             <div class="title">
                                 <h6>AZELIS Italia S.r.l.</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">Via Tommaso Gulli, 3920147 Milano.</li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:marco.gerosa@azelis.it">E: marco.gerosa@azelis.it</a></li>
-                                    <li style="font-size: 12px !important;"><a href="tel:+393482720722">T: +39 348 2720722</a></li>
+                                    <li>Via Tommaso Gulli, 3920147 Milano.</li>
+                                    <li><a href="mail-to:marco.gerosa@azelis.it">E: marco.gerosa@azelis.it</a></li>
+                                    <li><a href="tel:+393482720722">T: +39 348 2720722</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -273,9 +273,9 @@
                             <div class="title">
                                 <h6>M.I.Chemicals Ltd.</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">Meiron Str.96 Kvar Vradim 25147</li>
-                                    <li style="font-size: 12px !important;"><a href="tel:+972525208887">T: +972 525208887</a></li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:ts@mi-chemicals.com">E: ts@mi-chemicals.com</a></li>
+                                    <li>Meiron Str.96 Kvar Vradim 25147</li>
+                                    <li><a href="tel:+972525208887">T: +972 525208887</a></li>
+                                    <li><a href="mail-to:ts@mi-chemicals.com">E: ts@mi-chemicals.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -286,9 +286,9 @@
                             <div class="title">
                                 <h6>YAMAMOTO TRADING[Thailand] Co.Ltd</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">99/6 Moo13, Krisdanakorn 21 Km. 7, Bangna-Trad Road, Bangkaew, Bangplee Samutprakarn 10540.</li>
-                                    <li style="font-size: 12px !important;"><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
+                                    <li>99/6 Moo13, Krisdanakorn 21 Km. 7, Bangna-Trad Road, Bangkaew, Bangplee Samutprakarn 10540.</li>
+                                    <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
+                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -302,9 +302,9 @@
                             <div class="title">
                                 <h6>Penpet Korea Co.Ltd</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">D-701 26, Beobwon-ro 9-gil, Songpa-gu Seoul 05836.</li>
-                                    <li style="font-size: 12px !important;"><a href="tel:T: +82 02.6425.0510">T: +82 02.6425.0510</a></li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:harry@penpet.co.kr">E: harry@penpet.co.kr</a></li>
+                                    <li>D-701 26, Beobwon-ro 9-gil, Songpa-gu Seoul 05836.</li>
+                                    <li><a href="tel:T: +82 02.6425.0510">T: +82 02.6425.0510</a></li>
+                                    <li><a href="mail-to:harry@penpet.co.kr">E: harry@penpet.co.kr</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -315,9 +315,9 @@
                             <div class="title">
                                 <h6>GR Pigment</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">2711 Cedarglade Dr.Naperville IL 60564</li>
-                                    <li style="font-size: 12px !important;"><a href="tel:+1 630 303 0067">T: +1 630 303 0067</a></li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:grpigment@gmail.com">E: grpigment@gmail.com</a></li>
+                                    <li>2711 Cedarglade Dr.Naperville IL 60564</li>
+                                    <li><a href="tel:+1 630 303 0067">T: +1 630 303 0067</a></li>
+                                    <li><a href="mail-to:grpigment@gmail.com">E: grpigment@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -328,9 +328,9 @@
                             <div class="title">
                                 <h6>YAMAMOTO TRADING [Thailand] Co.Ltd.</h6>
                                 <ul>
-                                    <li style="font-size: 12px !important;">Ground Floor, 70 Pham Ngoc Thach Street District 3, Ho Chi Minh City</li>
-                                    <li style="font-size: 12px !important;"><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
-                                    <li style="font-size: 12px !important;"><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
+                                    <li>Ground Floor, 70 Pham Ngoc Thach Street District 3, Ho Chi Minh City</li>
+                                    <li><a href="tel:T: +66 02-740-9336 to 9">T: +66 02-740-9336 to 9</a></li>
+                                    <li><a href="mail-to:wiboondej@ytc.thailand.co.th">E: wiboondej@ytc.thailand.co.th</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -3,16 +3,11 @@
 .boxed_wrapper_box_page{
     overflow-x: hidden;
 }
-      
-
+    
 }
-
 
 /* Large Layout: 1200px. */
 @media only screen and (min-width: 1200px){
-
-    
- 
     
 }
 
@@ -65,8 +60,8 @@
     max-width: 670px;
 }    
 .about-style1-text-box {
-    padding-left: 0px;
-    padding-top: 60px;
+    /* padding-left: 0px; */
+    /* padding-top: 60px; */
 }    
     
 /*** Service Style2 Area Css ***/    
