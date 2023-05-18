@@ -1,0 +1,30 @@
+@font-face {
+    font-family:customfont;
+    src: url(assets/fonts/CenturyGothic.ttf);
+}
+@font-face {
+    font-family:customfontBOLD;
+    src: url(assets/fonts/GOTHICB.TTF);
+}
+*{
+    font-family:customfont ;
+}
+.bold{
+    font-family: customfontBOLD;
+}
+.blue{
+    color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.width-20{
+    width: 20%;
+    position: fixed;
+}
+@media(max-width:900px ){
+    .width-20{
+        width: 100%;
+        position: relative;
+    }
+}
