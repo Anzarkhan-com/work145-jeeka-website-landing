@@ -16,7 +16,7 @@
     <section class="head-jeeka blue">
         <div class="container mt-5">
             <div class="row">
-                <div class="col-lg-3 col-sm-6">
+                <div class=" border-img col-lg-3 col-sm-6">
                     <div class="width-20">
                         <div class="logo">
                             <img src="images/jeeka logo.jpg" alt="jeeka logo" style="height:2.46cm; width:2.14cm ">
@@ -27,24 +27,25 @@
                             <h6><i>β Beta</i></h6>
                             <h6><i>α Alpha</i></h6>
                         </div>
-                        <div class="contact">
-                            <h3 class="bold">CONTACT US</h3>
-                            <h6 class="bold">Mr. Jeeken Kharawala</h6>
-                            <p><i class="fa-solid fa-location-dot me-3"></i>380 Applewoods Villas | SP Ring Road | Ahmedabad -380 058. INDIA</p>
-                            <p><i class="fa-solid fa-phone me-3"></i>+91 9879619739</p>
-                            <p><i class="fa-regular fa-envelope me-3"></i>jeeken@jeeka.com</p>
-                        </div>
-                        <div class="about-us">
-                            <h3 class="bold">ABOUT US</h3>
-                            <p class="yellow">"We represent the <span class="bg-danger"> 4th generation </span> of the B.T.KHARAWALA group, a company originally established by Bhagwanlal Tejaji Kharawala in 1917."</p>
-
-                        </div>
-                        <div class="para">
-                            <p>JEEKA INDUSTRIES was established in 1957. From an early foray into manufacturing of Direct & Basic Dyes, the JEEKA group today has a strong presence in the Manufacturing of Phthalocyanine Blue Pigments.</p>
+                        <div class="color-img ps-2">
+                            <div class="about-us">
+                                <h3 class="bold">ABOUT US</h3>
+                                <p>"We represent the <span> 4th generation </span> of the B.T.KHARAWALA group, a company originally established by Bhagwanlal Tejaji Kharawala in 1917."</p>
+                                <div class="para">
+                                    <p>JEEKA INDUSTRIES was established in 1957. From an early foray into manufacturing of Direct & Basic Dyes, the JEEKA group today has a strong presence in the Manufacturing of Phthalocyanine Blue Pigments.</p>
+                                </div>
+                            </div>
+                            <div class="contact">
+                                <h3 class="bold">CONTACT US</h3>
+                                <h6 class="bold">Mr. Jeeken Kharawala</h6>
+                                <p><i class="fa-solid fa-location-dot"></i>380 Applewoods Villas | SP Ring Road | Ahmedabad -380 058. INDIA</p>
+                                <p><i class="fa-solid fa-phone"></i>+91 9879619739</p>
+                                <p><i class="fa-regular fa-envelope"></i>jeeken@jeeka.com</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-9 col-sm-6">
+                <div class="col-lg-9 col-sm-6 " style="margin-top: 15.5%;">
                     <div class="first-page">
                         <div class="para">
                             <p><span class="bold">JEEKA</span> is a recognized leader in manufacturing of Phthalocyanine Pigments for Coatings, Inks, Plastics/Fibres & Color Filters. </p>
@@ -82,55 +83,55 @@
                                     <div class="germany my-5">
                                         <h5><a href="#" class="bold blue">GERMANY</a></h5>
                                         <h5 class="bold">PENPET PETROCHEMICAL TRADING GmbH</h5>
-                                        <p><i class="fa-solid fa-location-dot me-3"></i>Merkurring 105 D-22143 Hamburg.</p>
-                                        <p><i class="fa-solid fa-phone me-3"></i>+49 40 67579930</p>
-                                        <p><i class="fa-regular fa-envelope me-3"></i>cm@penpet.dewww.penpet.de</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>Merkurring 105 D-22143 Hamburg.</p>
+                                        <p><i class="fa-solid fa-phone"></i>+49 40 67579930</p>
+                                        <p><i class="fa-regular fa-envelope"></i>cm@penpet.dewww.penpet.de</p>
                                     </div>
                                     <div class="germany my-5">
                                         <h5><a href="#" class="bold blue">ISRAEL</a></h5>
                                         <h5 class="bold">M.I.Chemicals Ltd.</h5>
-                                        <p><i class="fa-solid fa-location-dot me-3"></i>Meiron Str.96 Kvar Vradim 25147 </p>
-                                        <p><i class="fa-solid fa-phone me-3"></i>+972 525208887</p>
-                                        <p><i class="fa-regular fa-envelope me-3"></i>ts@mi-chemicals.com</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>Meiron Str.96 Kvar Vradim 25147 </p>
+                                        <p><i class="fa-solid fa-phone"></i>+972 525208887</p>
+                                        <p><i class="fa-regular fa-envelope"></i>ts@mi-chemicals.com</p>
                                     </div>
                                     <div class="germany my-5">
                                         <h5><a href="#" class="bold blue">ITALY</a></h5>
                                         <h5 class="bold">AZELIS Italia S.r.l.</h5>
-                                        <p><i class="fa-solid fa-location-dot me-3"></i>Via Tommaso Gulli, 3920147 Milano.</p>
-                                        <p><i class="fa-solid fa-phone me-3"></i>+39 348 2720722</p>
-                                        <p><i class="fa-regular fa-envelope me-3"></i>marco.gerosa@azelis.itwww.azelis.com</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>Via Tommaso Gulli, 3920147 Milano.</p>
+                                        <p><i class="fa-solid fa-phone"></i>+39 348 2720722</p>
+                                        <p><i class="fa-regular fa-envelope"></i>marco.gerosa@azelis.itwww.azelis.com</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="germany my-5">
                                         <h5><a href="#" class="bold blue">KOREA</a></h5>
                                         <h5 class="bold">Penpet Korea Co.Ltd</h5>
-                                        <p><i class="fa-solid fa-location-dot me-3"></i>D-701 26, Beobwon-ro 9-gil,Songpa-guSeoul 05836.</p>
-                                        <p><i class="fa-solid fa-phone me-3"></i>+82 02.6425.0510</p>
-                                        <p><i class="fa-regular fa-envelope me-3"></i>harry@penpet.co.krwww.penpet.de</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>D-701 26, Beobwon-ro 9-gil,Songpa-guSeoul 05836.</p>
+                                        <p><i class="fa-solid fa-phone"></i>+82 02.6425.0510</p>
+                                        <p><i class="fa-regular fa-envelope"></i>harry@penpet.co.krwww.penpet.de</p>
                                     </div>
                                     <div class="germany my-5">
                                         <h5><a href="#" class="bold blue">THAILAND</a></h5>
                                         <h5 class="bold">YAMAMOTO TRADING[Thailand] Co.Ltd</h5>
-                                        <p><i class="fa-solid fa-location-dot me-3"></i>99/6 Moo13, Krisdanakorn 21 Km. 7,Bangna-Trad Road, Bangkaew, BangpleeSamutprakarn 10540.</p>
-                                        <p><i class="fa-solid fa-phone me-3"></i>+66 02-740-9336 to 9</p>
-                                        <p><i class="fa-regular fa-envelope me-3"></i>wiboondej@ytc.thailand.co.thwww.ytc-j.co.jp</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>99/6 Moo13, Krisdanakorn 21 Km. 7,Bangna-Trad Road, Bangkaew, BangpleeSamutprakarn 10540.</p>
+                                        <p><i class="fa-solid fa-phone"></i>+66 02-740-9336 to 9</p>
+                                        <p><i class="fa-regular fa-envelope"></i>wiboondej@ytc.thailand.co.thwww.ytc-j.co.jp</p>
                                     </div>
                                     <div class="germany my-5">
                                         <h5><a href="#" class="bold blue">USA</a></h5>
                                         <h5 class="bold">GR Pigment</h5>
-                                        <p><i class="fa-solid fa-location-dot me-3"></i>2711 Cedarglade Dr.Naperville IL 60564</p>
-                                        <p><i class="fa-solid fa-phone me-3"></i>+1 630 303 0067</p>
-                                        <p><i class="fa-regular fa-envelope me-3"></i>grpigment@gmail.com</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>2711 Cedarglade Dr.Naperville IL 60564</p>
+                                        <p><i class="fa-solid fa-phone"></i>+1 630 303 0067</p>
+                                        <p><i class="fa-regular fa-envelope"></i>grpigment@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="germany my-5">
                                 <h5><a href="#" class="bold blue">VIETNAM</a></h5>
                                 <h5 class="bold">YAMAMOTO TRADING [Thailand] Co.Ltd.</h5>
-                                <p><i class="fa-solid fa-location-dot me-3"></i>Ground Floor, 70 Pham Ngoc Thach Street District 3, Ho Chi Minh City</p>
-                                <p><i class="fa-solid fa-phone me-3"></i>+66 02-740-9336 to 9</p>
-                                <p><i class="fa-regular fa-envelope me-3"></i>wiboondej@ytc.thailand.co.thwww.ytc-j.co.jp</p>
+                                <p><i class="fa-solid fa-location-dot"></i>Ground Floor, 70 Pham Ngoc Thach Street District 3, Ho Chi Minh City</p>
+                                <p><i class="fa-solid fa-phone"></i>+66 02-740-9336 to 9</p>
+                                <p><i class="fa-regular fa-envelope"></i>wiboondej@ytc.thailand.co.thwww.ytc-j.co.jp</p>
                             </div>
                         </div>
 

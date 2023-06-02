@@ -8,6 +8,8 @@
 }
 *{
     font-family:customfont ;
+    margin: 0;
+    padding: 0;
 }
 .bold{
     font-family: customfontBOLD;
@@ -27,4 +29,19 @@
         width: 100%;
         position: relative;
     }
+}
+a{
+    color: blue;
+    /* text-decoration: none; */
+}
+.color-img{
+    background-image: url(images/gradient-image.jpg);
+    color: white;
+}
+.contact p, .second-page p{
+    margin-bottom: 0;
+}
+.border-img{
+    border-right: 10px solid transparent;
+    border-image: url(images/line.jpg) 30 round;
 }
