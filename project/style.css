@@ -7,9 +7,17 @@
     src: url(assets/fonts/GOTHICB.TTF);
 }
 *{
-    font-family:customfont ;
+    font-family: customfont;
     margin: 0;
     padding: 0;
+    line-height: 1 !important;
+    font-size: 16px !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0 !important;
+}
+.fa-solid{
+    display: none;
 }
 .bold{
     font-family: customfontBOLD;
@@ -22,13 +30,24 @@
 }
 .width-20{
     width: 20%;
+}
+.position{
     position: fixed;
+
 }
 @media(max-width:900px ){
     .width-20{
         width: 100%;
         position: relative;
     }
+}
+.image{
+    background-image: url(images/a.jpg);
+    color: white;
+    width: 80%;
+}
+.gradiant p{
+    margin-bottom: 0px !important;
 }
 a{
     color: blue;
